@@ -1,6 +1,3 @@
-## Hi there 👋
-
-<!--
 **vimalofficial/vimalofficial** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 # first run the app js file it will be run the main file with the port number of 3000
