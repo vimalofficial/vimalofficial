@@ -44,12 +44,6 @@ Building web applications, scalable APIs, and automated deployment infrastructur
 - **Automation** — Queue processing, scheduled jobs, and automated lab provisioning.
 - **AI Integration** — AI APIs and automated website analysis.
 
-## Selected Projects
-
-- **Infinity Platform & CTFd Automation** — Containerized cybersecurity labs, Kubernetes orchestration, and lifecycle automation.
-- **PK AstroTalk Admin** — Full Stack application development and API integration.
-- **Synapse Sprints Admin** — Frontend and backend application development.
-- **Website Scraper & Analyzer** — Next.js, Puppeteer, Lighthouse, Browserless API, and Google AI Studio.
 
 ## Connect
 
