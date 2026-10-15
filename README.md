@@ -1,5 +1,5 @@
 # Vimal PK
-### Full Stack Developer | Backend Engineering | DevOps
+### Full Stack Developer with Cloud infra
 
 Building web applications, scalable APIs, and automated deployment infrastructure.
 
